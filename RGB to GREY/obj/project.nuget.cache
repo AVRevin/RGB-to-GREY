@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "szunbdCYUMhs2mAb1Slvcw4jBviXIx+K3DljU20BwwolefJCA9v62Cd0u8uxYcPpddiOnwcb2uZBHg760nO56A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\RGB to GREY\\RGB to GREY\\RGB to GREY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\bin\Debug\netcoreapp3.1\RGB to GREY.exe
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\obj\Debug\netcoreapp3.1\RGB to GREY.csprojAssemblyReference.cache
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\obj\Debug\netcoreapp3.1\RGB to GREY.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\obj\Debug\netcoreapp3.1\RGB to GREY.AssemblyInfo.cs
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\bin\Debug\netcoreapp3.1\RGB to GREY.deps.json
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\bin\Debug\netcoreapp3.1\RGB to GREY.runtimeconfig.json
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\bin\Debug\netcoreapp3.1\RGB to GREY.runtimeconfig.dev.json
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\bin\Debug\netcoreapp3.1\RGB to GREY.dll
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\bin\Debug\netcoreapp3.1\RGB to GREY.pdb
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\obj\Debug\netcoreapp3.1\RGB to GREY.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\obj\Debug\netcoreapp3.1\RGB to GREY.csproj.CopyComplete
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\obj\Debug\netcoreapp3.1\RGB to GREY.dll
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\obj\Debug\netcoreapp3.1\RGB to GREY.pdb
+C:\Users\user\source\repos\RGB to GREY\RGB to GREY\obj\Debug\netcoreapp3.1\RGB to GREY.genruntimeconfig.cache
